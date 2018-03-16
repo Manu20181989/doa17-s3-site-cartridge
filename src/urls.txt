@@ -1,1 +1,1 @@
-https://github.com/{your_github_user}/doa17-static-page.git
+https://github.com/Manu20181989/doa17-static-page.git
